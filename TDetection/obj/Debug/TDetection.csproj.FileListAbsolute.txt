@@ -1,0 +1,77 @@
+H:\TDetection\TDetection\bin\Debug\TDetection.exe.config
+H:\TDetection\TDetection\obj\Debug\TDetection.Form1.resources
+H:\TDetection\TDetection\obj\Debug\TDetection.Properties.Resources.resources
+H:\TDetection\TDetection\obj\Debug\TDetection.csproj.GenerateResource.Cache
+H:\TDetection\TDetection\bin\Debug\TDetection.exe
+H:\TDetection\TDetection\bin\Debug\TDetection.pdb
+H:\TDetection\TDetection\obj\Debug\TDetection.exe
+H:\TDetection\TDetection\obj\Debug\TDetection.pdb
+H:\TDetectionBigger\TDetection\bin\Debug\TDetection.exe.config
+H:\TDetectionBigger\TDetection\obj\Debug\TDetection.exe
+H:\TDetectionBigger\TDetection\obj\Debug\TDetection.pdb
+H:\TDetectionBigger\TDetection\bin\Debug\TDetection.exe
+H:\TDetectionBigger\TDetection\bin\Debug\TDetection.pdb
+H:\TDetectionBigger\TDetection\obj\Debug\TDetection.Form1.resources
+H:\TDetectionBigger\TDetection\obj\Debug\TDetection.Properties.Resources.resources
+H:\TDetectionBigger\TDetection\obj\Debug\TDetection.csproj.GenerateResource.Cache
+H:\TDetectionBigger\TDetection\obj\Debug\TDetection.csprojResolveAssemblyReference.cache
+C:\Users\HuPengbo\Desktop\TDetectionBigger\TDetection\bin\Debug\TDetection.exe.config
+C:\Users\HuPengbo\Desktop\TDetectionBigger\TDetection\obj\Debug\TDetection.exe
+C:\Users\HuPengbo\Desktop\TDetectionBigger\TDetection\obj\Debug\TDetection.pdb
+C:\Users\HuPengbo\Desktop\TDetectionBigger\TDetection\bin\Debug\TDetection.exe
+C:\Users\HuPengbo\Desktop\TDetectionBigger\TDetection\bin\Debug\TDetection.pdb
+C:\Users\HuPengbo\Desktop\TDetectionBigger\TDetection\obj\Debug\TDetection.Form1.resources
+C:\Users\HuPengbo\Desktop\TDetectionBigger\TDetection\obj\Debug\TDetection.Properties.Resources.resources
+C:\Users\HuPengbo\Desktop\TDetectionBigger\TDetection\obj\Debug\TDetection.csproj.GenerateResource.Cache
+C:\Users\HuPengbo\Desktop\TDetectionBigger\TDetection\obj\Debug\TDetection.csprojResolveAssemblyReference.cache
+C:\Users\HuPengbo\Desktop\Finished\Output\TDetection\bin\Debug\TDetection.exe.config
+C:\Users\HuPengbo\Desktop\Finished\Output\TDetection\bin\Debug\TDetection.exe
+C:\Users\HuPengbo\Desktop\Finished\Output\TDetection\bin\Debug\TDetection.pdb
+C:\Users\HuPengbo\Desktop\Finished\Output\TDetection\obj\Debug\TDetection.Form1.resources
+C:\Users\HuPengbo\Desktop\Finished\Output\TDetection\obj\Debug\TDetection.Properties.Resources.resources
+C:\Users\HuPengbo\Desktop\Finished\Output\TDetection\obj\Debug\TDetection.csproj.GenerateResource.Cache
+C:\Users\HuPengbo\Desktop\Finished\Output\TDetection\obj\Debug\TDetection.exe
+C:\Users\HuPengbo\Desktop\Finished\Output\TDetection\obj\Debug\TDetection.pdb
+C:\Users\HuPengbo\Desktop\Finished\Output\TDetection\obj\Debug\TDetection.csprojResolveAssemblyReference.cache
+C:\Users\HuPengbo\Desktop\Finished\Output-withSign\TDetection\bin\Debug\TDetection.exe.config
+C:\Users\HuPengbo\Desktop\Finished\Output-withSign\TDetection\obj\Debug\TDetection.exe
+C:\Users\HuPengbo\Desktop\Finished\Output-withSign\TDetection\obj\Debug\TDetection.pdb
+C:\Users\HuPengbo\Desktop\Finished\Output-withSign\TDetection\bin\Debug\TDetection.exe
+C:\Users\HuPengbo\Desktop\Finished\Output-withSign\TDetection\bin\Debug\TDetection.pdb
+C:\Users\HuPengbo\Desktop\Finished\Output-withSign\TDetection\obj\Debug\TDetection.Form1.resources
+C:\Users\HuPengbo\Desktop\Finished\Output-withSign\TDetection\obj\Debug\TDetection.Properties.Resources.resources
+C:\Users\HuPengbo\Desktop\Finished\Output-withSign\TDetection\obj\Debug\TDetection.csproj.GenerateResource.Cache
+C:\Users\HuPengbo\Desktop\Output-withSign\TDetection\bin\Debug\TDetection.exe.config
+C:\Users\HuPengbo\Desktop\Output-withSign\TDetection\bin\Debug\TDetection.exe
+C:\Users\HuPengbo\Desktop\Output-withSign\TDetection\bin\Debug\TDetection.pdb
+C:\Users\HuPengbo\Desktop\Output-withSign\TDetection\obj\Debug\TDetection.Form1.resources
+C:\Users\HuPengbo\Desktop\Output-withSign\TDetection\obj\Debug\TDetection.Properties.Resources.resources
+C:\Users\HuPengbo\Desktop\Output-withSign\TDetection\obj\Debug\TDetection.csproj.GenerateResource.Cache
+C:\Users\HuPengbo\Desktop\Output-withSign\TDetection\obj\Debug\TDetection.exe
+C:\Users\HuPengbo\Desktop\Output-withSign\TDetection\obj\Debug\TDetection.pdb
+C:\Users\HuPengbo\Desktop\Output-withSign\TDetection\obj\Debug\TDetection.csprojResolveAssemblyReference.cache
+H:\github\Output-withSign\TDetection\bin\Debug\TDetection.exe.config
+H:\github\Output-withSign\TDetection\bin\Debug\TDetection.exe
+H:\github\Output-withSign\TDetection\bin\Debug\TDetection.pdb
+H:\github\Output-withSign\TDetection\obj\Debug\TDetection.Form1.resources
+H:\github\Output-withSign\TDetection\obj\Debug\TDetection.Properties.Resources.resources
+H:\github\Output-withSign\TDetection\obj\Debug\TDetection.csproj.GenerateResource.Cache
+H:\github\Output-withSign\TDetection\obj\Debug\TDetection.exe
+H:\github\Output-withSign\TDetection\obj\Debug\TDetection.pdb
+G:\Output-withSign-1\TDetection\bin\Debug\TDetection.exe.config
+G:\Output-withSign-1\TDetection\bin\Debug\TDetection.exe
+G:\Output-withSign-1\TDetection\bin\Debug\TDetection.pdb
+G:\Output-withSign-1\TDetection\obj\Debug\TDetection.Form1.resources
+G:\Output-withSign-1\TDetection\obj\Debug\TDetection.Properties.Resources.resources
+G:\Output-withSign-1\TDetection\obj\Debug\TDetection.csproj.GenerateResource.Cache
+G:\Output-withSign-1\TDetection\obj\Debug\TDetection.exe
+G:\Output-withSign-1\TDetection\obj\Debug\TDetection.pdb
+G:\Output-withSign-1\TDetection\obj\Debug\TDetection.csprojResolveAssemblyReference.cache
+C:\Users\PengboHu\Desktop\Light Stimulation\TDetection\bin\Debug\TDetection.exe.config
+C:\Users\PengboHu\Desktop\Light Stimulation\TDetection\bin\Debug\TDetection.exe
+C:\Users\PengboHu\Desktop\Light Stimulation\TDetection\bin\Debug\TDetection.pdb
+C:\Users\PengboHu\Desktop\Light Stimulation\TDetection\obj\Debug\TDetection.Form1.resources
+C:\Users\PengboHu\Desktop\Light Stimulation\TDetection\obj\Debug\TDetection.Properties.Resources.resources
+C:\Users\PengboHu\Desktop\Light Stimulation\TDetection\obj\Debug\TDetection.csproj.GenerateResource.Cache
+C:\Users\PengboHu\Desktop\Light Stimulation\TDetection\obj\Debug\TDetection.exe
+C:\Users\PengboHu\Desktop\Light Stimulation\TDetection\obj\Debug\TDetection.pdb
