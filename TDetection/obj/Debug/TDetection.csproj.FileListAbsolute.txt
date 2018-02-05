@@ -75,3 +75,11 @@ C:\Users\PengboHu\Desktop\Light Stimulation\TDetection\obj\Debug\TDetection.Prop
 C:\Users\PengboHu\Desktop\Light Stimulation\TDetection\obj\Debug\TDetection.csproj.GenerateResource.Cache
 C:\Users\PengboHu\Desktop\Light Stimulation\TDetection\obj\Debug\TDetection.exe
 C:\Users\PengboHu\Desktop\Light Stimulation\TDetection\obj\Debug\TDetection.pdb
+H:\github\light-stimulation\TDetection\bin\Debug\TDetection.exe.config
+H:\github\light-stimulation\TDetection\bin\Debug\TDetection.exe
+H:\github\light-stimulation\TDetection\bin\Debug\TDetection.pdb
+H:\github\light-stimulation\TDetection\obj\Debug\TDetection.Form1.resources
+H:\github\light-stimulation\TDetection\obj\Debug\TDetection.Properties.Resources.resources
+H:\github\light-stimulation\TDetection\obj\Debug\TDetection.csproj.GenerateResource.Cache
+H:\github\light-stimulation\TDetection\obj\Debug\TDetection.exe
+H:\github\light-stimulation\TDetection\obj\Debug\TDetection.pdb

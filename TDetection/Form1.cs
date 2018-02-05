@@ -246,7 +246,7 @@ namespace TDetection
                         if (runIntervalTime)
                         {
                             
-                            if (count < intervalTime)
+                            if (count < intervalTime-1)
                             {
                                 board.VOutput(0, 0);
                                 lblShowValueText = "0";
